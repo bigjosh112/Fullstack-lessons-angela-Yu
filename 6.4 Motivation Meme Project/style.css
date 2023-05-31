@@ -1,0 +1,27 @@
+img{
+    border: 5px solid white;
+    margin: 40px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+*{
+    background-color: black;
+}
+
+.pic{
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+p,h1{
+    text-align: center;
+    margin-left: 150px;
+    font-family: 'Caveat', cursive;
+    margin-top: 0px;
+}
+
+h1{
+    text-transform: uppercase;
+}
